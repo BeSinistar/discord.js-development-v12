@@ -32,6 +32,5 @@ exports.conf = {
 exports.help = {
     name:"addRole",
     description:"addRole",
-    usage:"addRole",
-    category:"moderation"
+    usage:"addRole"
 }
